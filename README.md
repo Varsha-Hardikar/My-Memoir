@@ -1,2 +1,2 @@
 # My-Memoir
-Describes my professional bio
+My Professional Synopsis
